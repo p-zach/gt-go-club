@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/gt-go-comp/static/css/main.f855e6bc.css",
-    "main.js": "/gt-go-comp/static/js/main.1eb2da0c.js",
-    "static/js/453.69cb271f.chunk.js": "/gt-go-comp/static/js/453.69cb271f.chunk.js",
-    "static/media/logo.svg": "/gt-go-comp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/gt-go-comp/static/css/main.45f8a9dd.css",
+    "main.js": "/gt-go-comp/static/js/main.1a7a197f.js",
     "index.html": "/gt-go-comp/index.html",
-    "main.f855e6bc.css.map": "/gt-go-comp/static/css/main.f855e6bc.css.map",
-    "main.1eb2da0c.js.map": "/gt-go-comp/static/js/main.1eb2da0c.js.map",
-    "453.69cb271f.chunk.js.map": "/gt-go-comp/static/js/453.69cb271f.chunk.js.map"
+    "main.45f8a9dd.css.map": "/gt-go-comp/static/css/main.45f8a9dd.css.map",
+    "main.1a7a197f.js.map": "/gt-go-comp/static/js/main.1a7a197f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1eb2da0c.js"
+    "static/css/main.45f8a9dd.css",
+    "static/js/main.1a7a197f.js"
   ]
 }
