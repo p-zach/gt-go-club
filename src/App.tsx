@@ -1,7 +1,7 @@
 import React from "react";
 import Container from 'react-bootstrap/Container';
 import GoNavbar from "./elements/GoNavbar";
-import Board from "./pages/Board";
+import Board from "./pages/BoardPage";
 import BottomBar from "./elements/BottomBar";
 import "./App.scss";
 
