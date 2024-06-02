@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gt-go-comp/static/css/main.3af00b17.css",
-    "main.js": "/gt-go-comp/static/js/main.715ac954.js",
+    "main.js": "/gt-go-comp/static/js/main.ff74ffa6.js",
     "index.html": "/gt-go-comp/index.html",
     "main.3af00b17.css.map": "/gt-go-comp/static/css/main.3af00b17.css.map",
-    "main.715ac954.js.map": "/gt-go-comp/static/js/main.715ac954.js.map"
+    "main.ff74ffa6.js.map": "/gt-go-comp/static/js/main.ff74ffa6.js.map"
   },
   "entrypoints": [
     "static/css/main.3af00b17.css",
-    "static/js/main.715ac954.js"
+    "static/js/main.ff74ffa6.js"
   ]
 }
