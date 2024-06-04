@@ -1,7 +1,7 @@
 {
   "name": "gt-go-comp",
   "version": "0.1.0",
-  "homepage": "https://p-zach.github.io/gt-go-comp",
+  "homepage": "http://www.gtgoclub.org",
   "private": true,
   "husky": {
     "hooks": {
