@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Container from 'react-bootstrap/Container';
 import tenuki, { Game } from '../tenuki/tenuki'
 import "../tenuki/tenuki.css"
-import "./BoardPage.scss";
+// import "./BoardPage.scss";
 import config from "../go_config.json"
 
 const Board = () => {

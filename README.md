@@ -1,4 +1,4 @@
-# Georgia Tech Go Club: Go AI Competition
+# Georgia Tech Go Club & Go AI Competition
 
 This repository & the competition are a work in progress.
 
