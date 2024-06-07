@@ -1,0 +1,23 @@
+@import '../../node_modules/bootstrap/scss/functions';
+@import '../../node_modules/bootstrap/scss/variables';
+@import '../../node_modules/bootstrap/scss/mixins';
+
+.go-card {
+    width: 100%;
+}
+@include media-breakpoint-up(md)
+{
+    .go-card {
+        width: 80%;
+    }
+}
+@include media-breakpoint-up(lg) {
+    .go-card {
+        width: 60%;
+    }
+}
+@include media-breakpoint-up(xl) {
+    .go-card {
+        width: 40%;
+    }
+}

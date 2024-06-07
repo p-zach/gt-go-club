@@ -3,7 +3,8 @@ import Container from 'react-bootstrap/Container';
 import GoNavbar from "./elements/GoNavbar";
 import Board from "./pages/BoardPage";
 import BottomBar from "./elements/BottomBar";
-import About from "./pages/AboutPage";
+import Home from "./pages/HomePage";
+import Learn from "./pages/LearnPage";
 import { Route, Routes } from "react-router-dom";
 // import "./App.scss";
 
@@ -14,8 +15,9 @@ function App() {
         <GoNavbar />
         <div className="content">
           <Routes>
-            <Route path="/" Component={Board}/>
-            <Route path="/about" Component={About}/>
+            <Route path="/" Component={Home}/>
+            <Route path="/learn" Component={Learn}/>
+            <Route path="/board" Component={Board}/>
           </Routes>
         </div>
         <BottomBar />
